@@ -1,0 +1,4 @@
+## CONEXÃO COM O BANCO DE DADOS
+
+conexao = pymongo.MongoClient('mongodb+srv://botpython:bc123456!@storm-project-eu6jj.mongodb.net/test')
+mydb = conexao['SeekerEnterprise']
