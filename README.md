@@ -6,9 +6,7 @@
 
 `ACESSE TODA NOSSA ESTRUTURA CLICANDO NO TÓPICO DESEJADO!!`
 
-- [ ] <b>[Definições de Projeto]()
-- [ ] <b>[Documentação da Solução]()
-- [ ] <b>[Desenvolvimento da Solução (Sprint 1)]()
-- [ ] <b>[Desenvolvimento da Solução (Sprint 2)]()
-- [ ] <b>[Desenvolvimento da Solução (Sprint 3)]()
-- [ ] <b>[Fechamento do Projeto]()
+- [x] <b>[Definições de Projeto](https://gitlab.com/BDAg/stormproject/seeker-enterprise/wikis/home#documenta%C3%A7%C3%A3o)
+- [x] <b>[Documentação da Solução](https://gitlab.com/BDAg/stormproject/seeker-enterprise/wikis/home#documenta%C3%A7%C3%A3o)
+- [x] <b>[Desenvolvimento da Solução (Sprint 1)](https://gitlab.com/BDAg/stormproject/seeker-enterprise/wikis/Entregas-Sprint-1)
+- [x] <b>[Fechamento do Projeto](https://gitlab.com/BDAg/stormproject/seeker-enterprise/wikis/Entregas-Sprint-1)
