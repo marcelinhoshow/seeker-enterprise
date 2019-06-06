@@ -20,7 +20,7 @@ class Seeker():
 
 		while True:
 			fileName = str(input('-> INSIRA O NOME DO ARQUIVO CSV : '))
-			if os.path.isfile(fileName+'.csv'): # vemos de este diretorio já existe
+			if os.path.isfile(fileName+'.csv'):
 				break
 			else:
 				print ('NOME DE ARQUIVO INVALIDO!')
@@ -53,6 +53,7 @@ class Seeker():
 			reader = csv.reader(f)
 			for row in reader:
 				nomeEmpresa = row[0]
+				print('Iniciando busca por {}'.format(nomeEmpresa))
 				contadorRanking = 1
 				verificarEmpresaNoBanco = self.findEmpresaInBD(nomeEmpresa)
 				if verificarEmpresaNoBanco == None:
